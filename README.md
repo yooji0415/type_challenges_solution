@@ -17,20 +17,25 @@
 - 13 Hello World
 
   - [문제 링크](https://github.com/type-challenges/type-challenges/blob/main/questions/00013-warm-hello-world/README.ko.md)
-  - 해설: 추가 예정
+  - 해설: https://maintainhoon.vercel.app/blog/post/type_challenges_13_4_7_11
 
 ## 🤔 easy
 
 - 4 Pick
 
   - [문제 링크](https://github.com/type-challenges/type-challenges/blob/main/questions/00004-easy-pick/README.ko.md)
-  - 해설: 추가 예정
+  - 해설: https://maintainhoon.vercel.app/blog/post/type_challenges_13_4_7_11
 
 - 7 Readonly
 
   - [문제 링크](https://github.com/type-challenges/type-challenges/blob/main/questions/00007-easy-readonly/README.ko.md)
-  - 해설: 추가 예정
+  - 해설: https://maintainhoon.vercel.app/blog/post/type_challenges_13_4_7_11
 
 - 11 Tuple to Object
+
   - [문제 링크](https://github.com/type-challenges/type-challenges/blob/main/questions/00011-easy-tuple-to-object/README.ko.md)
+  - 해설: https://maintainhoon.vercel.app/blog/post/type_challenges_13_4_7_11
+
+- 14 First of Array
+  - [문제 링크](https://github.com/type-challenges/type-challenges/blob/main/questions/00014-easy-first/README.ko.md)
   - 해설: 추가 예정
