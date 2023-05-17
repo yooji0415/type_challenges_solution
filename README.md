@@ -37,5 +37,10 @@
   - 해설: https://maintainhoon.vercel.app/blog/post/type_challenges_13_4_7_11
 
 - 14 First of Array
+
   - [문제 링크](https://github.com/type-challenges/type-challenges/blob/main/questions/00014-easy-first/README.ko.md)
+  - 해설: 추가 예정
+
+- 18 First of Array
+  - [문제 링크](https://github.com/type-challenges/type-challenges/blob/main/questions/00018-easy-tuple-length/README.ko.md)
   - 해설: 추가 예정
