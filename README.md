@@ -41,6 +41,12 @@
   - [문제 링크](https://github.com/type-challenges/type-challenges/blob/main/questions/00014-easy-first/README.ko.md)
   - 해설: 추가 예정
 
-- 18 First of Array
+- 18 Length of Tuple
+
   - [문제 링크](https://github.com/type-challenges/type-challenges/blob/main/questions/00018-easy-tuple-length/README.ko.md)
+  - 해설: 추가 예정
+
+- 43 Exclude
+
+  - [문제 링크](https://github.com/type-challenges/type-challenges/blob/main/questions/00043-easy-exclude/README.ko.md)
   - 해설: 추가 예정
