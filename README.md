@@ -50,3 +50,8 @@
 
   - [문제 링크](https://github.com/type-challenges/type-challenges/blob/main/questions/00043-easy-exclude/README.ko.md)
   - 해설: 추가 예정
+
+- 189 Awaited
+
+  - [문제 링크](https://github.com/type-challenges/type-challenges/blob/main/questions/00189-easy-awaited/README.ko.md)
+  - 해설: 추가 예정
