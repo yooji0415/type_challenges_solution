@@ -55,3 +55,8 @@
 
   - [문제 링크](https://github.com/type-challenges/type-challenges/blob/main/questions/00189-easy-awaited/README.ko.md)
   - 해설: 추가 예정
+
+- 268 If
+
+  - [문제 링크](https://github.com/type-challenges/type-challenges/blob/main/questions/00268-easy-if/README.ko.md)
+  - 해설: 추가 예정
