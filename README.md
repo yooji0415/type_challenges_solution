@@ -60,3 +60,8 @@
 
   - [문제 링크](https://github.com/type-challenges/type-challenges/blob/main/questions/00268-easy-if/README.ko.md)
   - 해설: 추가 예정
+
+- 533 Concat
+
+  - [문제 링크](https://github.com/type-challenges/type-challenges/blob/main/questions/00533-easy-concat/README.ko.md)
+  - 해설: 추가 예정
